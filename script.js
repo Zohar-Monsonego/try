@@ -82,3 +82,9 @@ function setMessage(message) {
 function setScore(num) {
   document.querySelector('.score').textContent = num;
 }
+
+console.log('hiiii');
+console.log('hiiii');
+
+console.log('hiiii');
+console.log('hiiii');
